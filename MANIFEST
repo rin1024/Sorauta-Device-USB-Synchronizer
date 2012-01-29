@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Sorauta-Device-USB-Synchronizer.t
+lib/Sorauta/Device/USB/Synchronizer.pm
